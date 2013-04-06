@@ -14,6 +14,6 @@
 # Each Block will state about the task it is going to perform and assumptions made, if any.
 # Possible Errors/Output are redirected to /dev/null.
 # Created and Tested on Ubuntu 11.04. 
-#
+# Script only for Ubuntu Systems.
 # Written By: Sanchit Jain-(sanchit.rasiya@gmail.com), Dated: 21-10-2012.
 #**************************************
